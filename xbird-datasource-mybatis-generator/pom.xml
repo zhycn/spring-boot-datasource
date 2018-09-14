@@ -3,8 +3,8 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<artifactId>xbird-datasource-jpa</artifactId>
-	<name>Xbird DataSource for Spring Data JPA</name>
+	<artifactId>xbird-datasource-mybatis-generator</artifactId>
+	<name>Xbird DataSource for MyBatis Generator</name>
 
 	<parent>
 		<groupId>com.github.zhycn</groupId>
@@ -31,7 +31,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<finalName>xbird-datasource-jpa</finalName>
+					<finalName>xbird-datasource-mybatis-generator</finalName>
 				</configuration>
 			</plugin>
 		</plugins>

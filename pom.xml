@@ -26,6 +26,11 @@
 
 	<modules>
 		<module>xbird-datasource-jpa</module>
+		<module>xbird-datasource-jpa-multi</module>
+		<module>xbird-datasource-mybatis</module>
+		<module>xbird-datasource-mybatis-multi</module>
+		<module>xbird-datasource-mybatis-generator</module>
+		<module>xbird-datasource-combiner</module>
 	</modules>
 
 </project>

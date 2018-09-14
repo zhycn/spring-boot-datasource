@@ -1,1 +1,1 @@
-# Xbird DataSource JPA
+# Xbird DataSource for Spring Data JPA
