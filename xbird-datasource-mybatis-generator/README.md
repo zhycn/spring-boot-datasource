@@ -129,3 +129,7 @@ mapper.type=XMLMAPPER
 ```
 mvn mybatis-generator:generate
 ```
+
+## 参考
+
+- [Mybatis Generator最完整配置详解](https://www.jianshu.com/p/e09d2370b796)
